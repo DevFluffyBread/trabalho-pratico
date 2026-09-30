@@ -9,10 +9,10 @@ Distribuição sugerida:
 1. **Incrementar de 2 em 2** (mudar a lógica do clique no botão "+"). (Aluno A: Juliane)
 2. **Renomear função de contagem** de `setCount` para `updateCount` e ajustar chamadas. (Aluno A: Juliane)
 3. **Tema escuro ajustável**:
-   - Alternar variáveis de cor.
-   - Ajustar a cor primária.
+   - Alternar variáveis de cor. (Aluno B: Samuel)
+   - Ajustar a cor primária. (Aluno B: Samuel)
 4. **Título dinâmico**:
-   - Definir título coerente em claro/escuro.
+   - Definir título coerente em claro/escuro. (Aluno B: Samuel)
 5. **Release 1.0.0**:
    - Atualizar versão exibida no HTML.
    - Escrever `docs/release-notes.md`.
