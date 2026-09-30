@@ -14,7 +14,7 @@ Distribuição sugerida:
 4. **Título dinâmico**:
    - Definir título coerente em claro/escuro. (Aluno B: Samuel)
 5. **Release 1.0.0**:
-   - Atualizar versão exibida no HTML.
+   - Atualizar versão exibida no HTML.(Aluno A: Juliane)
    - Escrever `docs/release-notes.md`.
 6. **Hotfix (pós-release)**:
    - Corrigir um detalhe no título no modo claro (simulação).
