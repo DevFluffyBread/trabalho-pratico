@@ -6,8 +6,8 @@ Distribuição sugerida:
 - **Aluno A**: coordenação, merges, release e hotfix
 
 ## Lista de tarefas
-1. **Incrementar de 2 em 2** (mudar a lógica do clique no botão "+").
-2. **Renomear função de contagem** de `setCount` para `updateCount` e ajustar chamadas.
+1. **Incrementar de 2 em 2** (mudar a lógica do clique no botão "+"). (Aluno A: Juliane)
+2. **Renomear função de contagem** de `setCount` para `updateCount` e ajustar chamadas. (Aluno A: Juliane)
 3. **Tema escuro ajustável**:
    - Alternar variáveis de cor.
    - Ajustar a cor primária.
