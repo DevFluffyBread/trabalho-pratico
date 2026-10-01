@@ -23,8 +23,8 @@ elDecrement.addEventListener("click", () => {
 
 elToggleTheme.addEventListener("click", () => {
   state.dark = !state.dark;
-  document.documentElement.style.setProperty("--bg", state.dark ? "#200b0b" : "#5f00a3");
-  document.documentElement.style.setProperty("--text", state.dark ? "#bb00ff" : "#1d0002");
-  elTitle.textContent = state.dark ? "Mini App – Modo Escuro" : "Mini App – GitFlow";
+  document.documentElement.style.setProperty("--bg", state.dark ? "#200b0b" : "#f8fafc");
+  document.documentElement.style.setProperty("--text", state.dark ? "#bb00ff" : "#7e0177");
+  elTitle.textContent = state.dark ? "Mini App – Modo Escuro" : "Mini App – Modo Claro GitFlow";
   elToggleTheme.setAttribute("aria-pressed", String(state.dark));
 });
