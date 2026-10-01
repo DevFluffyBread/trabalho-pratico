@@ -14,3 +14,10 @@ Registre aqui:
 - **Decisão final:** manter os valores de `HEAD` (`#200b0b` / `#5f00a3` para `--bg`; `#bb00ff` / `#1d0002` para `--text`).
 - **Racional:** preferência pelos valores de `HEAD`, correspondentes à escolha mais recente de cores.
 - **Responsável e data do registro:** Juliane; 01/10/2026.
+
+## Conflito de merge: `main` e `hotfix` (título)
+ **Arquivo/trecho:** título exibido no modo claro, alterado pelo hotfix pós-release.
+ **Alternativas consideradas:** manter o título existente em `main` ou usar o título atualizado no `hotfix`.
+ **Decisão final:** manter o título do `hotfix`.
+ **Racional:** o hotfix foi uma atualização rápida realizada após a release.
+ **Responsável e data:** Juliane; 01/10/2026.
