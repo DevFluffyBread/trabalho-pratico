@@ -1,7 +1,11 @@
 :root {
   --primary: #e2c3ff; /* azul padrão base */
   --bg: #f8fafc;
+<<<<<<< HEAD
   --text: #720d24;
+=======
+  --text: #7e0177;
+>>>>>>> develop
   --card: #ffffff;
   --border: #0400ff;
 }
